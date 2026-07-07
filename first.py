@@ -1,6 +1,28 @@
-print("Hello, World!")
+side = float(input("enter square side : "))
 
-name = input("Enter your name: ")
+print("area =", side **2)
 
-print("Hello,", name)
-print("Welcome to Python! 🚀")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
