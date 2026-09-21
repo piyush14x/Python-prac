@@ -481,10 +481,16 @@ with open("hello.txt", "r") as f:
     file.write("\nNIELIT A-Level")'''
 
 
+'''from calculator import introduction as i
+i.hello()
+i.piyush()'''
 
 
+import math
+print(math.sqrt(100))
 
-
+from math import sqrt
+print(sqrt(64))
 
 
 
