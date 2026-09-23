@@ -485,12 +485,16 @@ with open("hello.txt", "r") as f:
 i.hello()
 i.piyush()'''
 
+#========================
+#importing python modules
+#========================
 
-import math
+'''import math
 print(math.sqrt(100))
 
 from math import sqrt
-print(sqrt(64))
+print(sqrt(64))'''
+
 
 
 

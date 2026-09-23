@@ -20,3 +20,9 @@ while True:
         print("🎉 Congratulations!")
         print("You guessed the number in", attempts, "attempts.")
         break
+
+
+    import random
+names = ["Rahul", "Amit", "Priya", "Neha"]
+result = (random.choice(names,))
+print(result)
